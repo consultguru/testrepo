@@ -6,10 +6,6 @@
  */
 
 /**
- * test change
- */
-
-/**
  * Form constructor for the file transfer authorization form.
  *
  * Allows the user to choose a FileTransfer type and supply credentials.
